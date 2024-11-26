@@ -1,0 +1,14 @@
+{
+  "name": "rental_car",
+  "version": "1.0.0",
+  "main": "rentalCar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CurziLucas <lucasantoniocurzi@gmail.com>",
+  "license": "ISC",
+  "description": "Este es un tp sobre como calcular la renta de un auto",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
